@@ -1,6 +1,6 @@
 
-# NAME:S.DHAMINI
-## REGISTER NUMBER:212224040064
+# NAME:L.Jessica Effrosini
+## REGISTER NUMBER:212224110026
 
 # EX-01-Datatypes-Operators
 ## AIM:
